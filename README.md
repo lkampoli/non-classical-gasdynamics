@@ -1,1 +1,1 @@
-# non-classical-gasdynamics
+# Non-ideal compressible fluid dynamics (NICFD)
